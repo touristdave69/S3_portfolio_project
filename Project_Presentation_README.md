@@ -7,7 +7,7 @@ This is a lightweight, mobile-friendly personal portfolio website designed and b
 - **Deployed via:** AWS S3 (static website hosting)
 - **Built with:** HTML, CSS, vanilla JavaScript
 - **Styled with:** Custom CSS and dark mode support
-- **Live site:** *(Link to your S3 endpoint or custom domain)*
+- **Live site:** *( http://memecollector.s3-website-us-east-1.amazonaws.com )*
 - **Source:** [GitHub Repo](https://github.com/Touristdave69)
 
 ## 💡 Features
